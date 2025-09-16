@@ -1,45 +1,10 @@
-node_modules/
-# Jupyter checkpoints
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Data files
-data/
-*.csv
-
-# Model and pickle files
+# Pickle files
 *.pkl
-*.h5
-*.joblib
 
-
-# Executables / Installers
+# Windows installer files
 *.msi
-*.exe
 
-# Virtual environments
-venv/
-env/
-.venv/
-
-# Editors / IDE
-.vscode/
-.idea/
-
-# Environment variables
-.env
-*.env
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Logs and temp
-*.log
-tmp/
-temp/
 

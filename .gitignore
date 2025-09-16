@@ -5,11 +5,7 @@
 *.pkl
 
 # Windows installer files
-*.msi
-
-# Data files
-data/
-*.csv
+scripts/*.msi
 
 # Python virtual environments
 env/

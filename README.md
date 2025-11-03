@@ -27,10 +27,10 @@ This project focuses on analyzing Google Workspace data to understand how teams 
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
 Organizations invest heavily in Google Workspace to boost productivity, but often struggle to measure its true impact. Some common questions :
--Are employees using meetings effectively, or are they spending too much time in them?
--Which tools drive the most collaboration and which remain underutilized?
--Is there an opportunity to reduce meeting time and increase focus hours?
--How can we use Workspace data to improve team efficiency and cut unnecessary costs?
+- Are employees using meetings effectively, or are they spending too much time in them?
+- Which tools drive the most collaboration and which remain underutilized?
+- Is there an opportunity to reduce meeting time and increase focus hours?
+- How can we use Workspace data to improve team efficiency and cut unnecessary costs?
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset Provenance</h2>

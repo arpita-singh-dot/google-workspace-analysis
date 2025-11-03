@@ -92,7 +92,7 @@ Google-Workspace-Analysis/
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
--We prepared the dataset before analysis by:
+**We prepared the dataset before analysis by:**
 - Filling or removing missing values.
 - Making dates and numbers consistent (same format/units).
 - Removing duplicates and obvious errors.
